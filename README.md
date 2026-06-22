@@ -1,0 +1,1 @@
+Predictive Analytics project that uses historical sales data to forecast future trends. It applies data preprocessing, Linear Regression, and evaluation metrics to predict sales performance. The project includes data analysis and visualization using Python libraries like Pandas, Scikit-learn, and Matplotlib.
